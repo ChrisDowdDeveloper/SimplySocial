@@ -1,0 +1,5 @@
+[
+    {"id": 1, "user_id": 1, "query": "JavaScript", "results_count": 5},
+    {"id": 2, "user_id": 2, "query": "React", "results_count": 3}
+  ]
+  

@@ -1,0 +1,5 @@
+[
+    {"id": 1, "user_id": 1, "setting_name": "dark_mode", "setting_value": "true"},
+    {"id": 2, "user_id": 2, "setting_name": "notifications", "setting_value": "true"}
+  ]
+  

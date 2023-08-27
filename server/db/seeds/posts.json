@@ -1,0 +1,7 @@
+[
+    { "id": 1, "user_id": 1, "content": "This is my first post!", "media_id": 1 },
+    { "id": 2, "user_id": 2, "content": "Hello world!", "media_id": null },
+    { "id": 3, "user_id": 3, "content": "Learning to code!", "media_id": 2 },
+    { "id": 4, "user_id": 4, "content": "Beautiful sunset!", "media_id": 3 }
+  ]
+  
